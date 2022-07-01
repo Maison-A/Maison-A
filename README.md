@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<H3> About Me </H3>
+<H1> About </H1>
 <hr></hr>
-
+My name is <h3>Maison Caspar Arroyo</h3>
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
