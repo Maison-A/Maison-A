@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<H3>About Me</H3>
+<H3> About Me </H3>
+<hr></hr>
 
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
