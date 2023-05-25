@@ -3,7 +3,7 @@
 Below is a snapshot of technologies I've worked with along with what I've done in them!
 <br>
 
-- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sprocs & Data mgmt, Video Game Development
+- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt, Video Game Development
 
 - Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
