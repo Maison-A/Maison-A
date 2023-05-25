@@ -1,9 +1,9 @@
 ### Howdy, I'm Maison! A Software Developer
 
-Below is a snapshot of technologies I've worked with and am comfortable with along with what I've done in them to give you an idea of my abilites!
+Below is a snapshot of technologies I've worked with along with what I've done in them!
 <br>
 
-- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sprocs & Data mgmt
+- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sprocs & Data mgmt, Video Game Development
 
 - Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
