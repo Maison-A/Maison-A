@@ -1,11 +1,11 @@
 ### Howdy, I'm Maison! A Software Developer, below are lists of technologies I've worked with and am comfortable with along with what I've done in them!
 <br>
 
-- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations, Sprocs, Mata mgmt, Business Logic
+- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sprocs & Data mgmt
 
-- Frontend Development: CSS/HTML, JS, Vue, Typescript
+- Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
-- Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Netlify
+- Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br> BaaS projects
 
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
