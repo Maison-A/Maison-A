@@ -1,4 +1,6 @@
-### Howdy, I'm Maison! A Software Developer, below are lists of technologies I've worked with and am comfortable with along with what I've done in them!
+### Howdy, I'm Maison! A Software Developer
+
+Below are lists of technologies I've worked with and am comfortable with along with what I've done in them!
 <br>
 
 - Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sprocs & Data mgmt
