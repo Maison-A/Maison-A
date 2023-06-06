@@ -9,6 +9,10 @@ Below is a snapshot of technologies I've worked with along with what I've done i
 
 - Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br> BaaS projects
 
+
+My current pinned repos are some work I'm proud of - and work in progress. 
+
+Feel free to follow my wip's to see my thought process and problem solving along the way!
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
