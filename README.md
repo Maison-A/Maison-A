@@ -2,7 +2,11 @@
 
 Below is a snapshot of technologies I've worked with along with what I've done in them!
 <br>
-
+ You'll notice a lot of different fields, and that's mostly due to me trying to find my niche! 
+ 
+ I love "lower" level languages and the backend in general so there may be a bit more work there than not!
+ <br>
+ 
 - Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt, Video Game Development
 
 - Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
