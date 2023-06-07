@@ -2,8 +2,7 @@
 
 Below is a snapshot of technologies I've worked with along with what I've done in them!
 <br>
- You'll notice a lot of different fields, and that's mostly due to me trying to find my niche! 
- 
+ You'll notice a lot of different fields, and that's mostly due to me trying to find my niche - I can't really decide at the moment what I want to hone in on but can do it all nonetheless.
  I love "lower" level languages and the backend in general so there may be a bit more work there than not!
  <br>
  
