@@ -1,6 +1,10 @@
 ### Howdy, I'm Maison! A Software Developer
-
+<h2>About Me</h2>
+<hr></hr>
 - Currently making video games - keeping an eye out for opportunity
+
+<h2>Languages & Tools</h2>
+<hr></hr>
 - Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt, Video Game Development
 
 - Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
