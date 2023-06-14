@@ -1,21 +1,13 @@
 ### Howdy, I'm Maison! A Software Developer
 
-Below is a snapshot of technologies I've worked with along with what I've done in them!
-<br>
- You'll notice a lot of different fields, and that's mostly due to me trying to find my niche - I can't really decide at the moment what I want to hone in on but can do it all nonetheless.
- I love "lower" level languages and the backend in general so there may be a bit more work there than not!
- <br>
- 
+- Currently working on video game creation
 - Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt, Video Game Development
 
 - Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
 - Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br> BaaS projects
 
-
-My current pinned repos are some work I'm proud of - and works in progress (superDemo & climbingStuff). 
-
-Feel free to follow my wip projects to see my thought process and problem solving along the way!
+<br>
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
