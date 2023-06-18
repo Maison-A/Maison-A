@@ -2,8 +2,7 @@
 <h2>About Me</h2>
 
 - Currently making video games and doing leetcode, keeping an eye out for opportunity
-- Can do the FrontEnd but I'm happy in the BackEnd.
-- Leaving the "full stack" world for BackEnd positions
+- Can do the Frontend, happy in the Backend.
 - Nomenclature is my weakspot
 
 <h2>Languages & Tools</h2>
