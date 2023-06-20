@@ -1,7 +1,7 @@
 ### Howdy, I'm Maison! A Software Developer
 <h2>About Me</h2>
 
-- Currently making video games and doing leetcode, keeping an eye out for opportunity
+- Currently making video games and solving problems, keeping an eye out for opportunity
 - Can do the Frontend, happy in the Backend.
 - Nomenclature is my weakspot
 
