@@ -1,9 +1,7 @@
 ### Howdy, I'm Maison! A Software Developer
 <h2>About Me</h2>
 
-- Currently making video games and a personal webapp.
-- Solving problems, keeping an eye out for opportunity
-- Nomenclature is my weakspot
+- Currently making video games and a personal webapp. Depth > Breadth
 
 <h2>Languages & Tools</h2>
 
