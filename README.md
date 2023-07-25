@@ -1,7 +1,7 @@
 ### Howdy, I'm Maison! A Software Developer
 <h2>About Me</h2>
 
-- Currently making video games and a personal webapp. Depth > Breadth
+- Currently making video games and a personal webapp since Depth > Breadth imo
 
 <h2>Languages & Tools</h2>
 
