@@ -11,7 +11,7 @@
 
 - Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br> BaaS projects
 
-This stuff is my passion, and I'm still learning more and more every day
+This stuff is my passion, and I'm learning more and more every day
 
 <br>
 <!--
