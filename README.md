@@ -5,13 +5,15 @@
 
 <h2>Languages & Tools</h2>
 
-- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt, Video Game Development
+- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt
 
-- Frontend Development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
+- Frontend development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
 - Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br> BaaS projects
 
-This stuff is my passion, and I'm learning more and more every day
+- Video game development: Unity C#
+  
+This stuff is my passion and I'm learning more and more every day!
 
 <br>
 <!--
