@@ -5,7 +5,7 @@
 
 <h2>Languages & Tools</h2>
 
-- Backend development: SQL, C/C++/C#, Python and soon RUST! <br> Custom operations & Business Logic, Sproc development & DB mgmt
+- Backend development: SQL, C/C++/C#, Python <br> Custom operations & Business Logic, Sproc development & DB mgmt
 
 - Frontend development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
