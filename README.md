@@ -1,7 +1,7 @@
 ### Howdy, I'm Maison! A Software Developer
 <h2>About Me</h2>
 
-- Currently making video games and a personal webapp since Depth > Breadth imo
+- Currently working on a professional portfolio site to showcase what these highlighted repo's are! Keeping an eye out for the next opportunity and honing my skill
 
 <h2>Languages & Tools</h2>
 
