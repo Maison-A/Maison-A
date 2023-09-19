@@ -20,11 +20,7 @@ I attended and graduated from Cincinnati State with an AS in Computer Programmin
 
 - Video game development: Unity C#
   
-This stuff is my passion and I'm learning more and more every day!
-
-<br>
-
-Howdy, I'm Maison! A Software Developer
+<h4>This stuff is my passion and I'm learning more and more every day!</h4>
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
