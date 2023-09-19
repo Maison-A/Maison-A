@@ -1,7 +1,13 @@
 ### Howdy, I'm Maison! A Software Developer
 <h2>About Me</h2>
 
-- Currently working on a site to showcase what these highlighted repo's are! Keeping an eye out for the next opportunity and honing my skill
+<p>I was an Infantryman (11B) with the US Army and picked up my first gaming PC while in uniform (this matters I promise). While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked. 
+So, naturally, I started coursework for software development while I was still active.
+When I got out of uniform, I went to school after spending some time transitioning to the civilian life.
+I attended and graduated from Cincinnati State with an AS in Computer Programming & Database Design and have been off to the races ever since! 
+</p>
+
+- I'm currently working on personal projects and keeping an eye out for opportunity
 
 <h2>Languages & Tools</h2>
 
@@ -9,13 +15,15 @@
 
 - Frontend development: CSS/HTML, JS, Vue, Typescript <br> UI & Design
 
-- Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br> BaaS projects
+- Full stack development: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker <br>
 
 - Video game development: Unity C#
   
 This stuff is my passion and I'm learning more and more every day!
 
 <br>
+
+Howdy, I'm Maison! A Software Developer
 <!--
 **Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
