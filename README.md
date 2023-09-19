@@ -2,7 +2,7 @@
 <h2>About Me</h2>
 
 <p>I was an Infantryman (11B) with the US Army and picked up my first gaming PC while in uniform (this matters I promise). While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked. 
-So, naturally, I started coursework for software development while I was still active.
+So, naturally, I started coursework for software development while I was still active.<br>
 When I got out of uniform, I went to school after spending some time transitioning to the civilian life.
 I attended and graduated from Cincinnati State with an AS in Computer Programming & Database Design and have been off to the races ever since! 
 </p>
