@@ -8,7 +8,7 @@ I attended and graduated from Cincinnati State with an AS in Computer Programmin
 </p>
 <p>Tldr; I'm an Aspiring Renaissance Man </p>
 
-<h4> - I'm currently working on personal projects and keeping an eye out for opportunity </h4>
+<h4>I'm currently working on personal projects and keeping an eye out for opportunity </h4>
 
 
 <h2>Languages & Tools</h2>
