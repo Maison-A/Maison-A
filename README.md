@@ -7,7 +7,9 @@ When I got out of uniform, I went to school after spending some time transitioni
 I attended and graduated from Cincinnati State with an AS in Computer Programming & Database Design and have been off to the races ever since! 
 </p>
 <p>Tldr; I'm an Aspiring Renaissance Man </p>
-- I'm currently working on personal projects and keeping an eye out for opportunity
+
+<h4> - I'm currently working on personal projects and keeping an eye out for opportunity </h4>
+
 
 <h2>Languages & Tools</h2>
 
