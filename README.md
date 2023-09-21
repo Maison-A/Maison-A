@@ -1,6 +1,6 @@
-Howdy, I'm Maison! A Software Developer
+<h1>Howdy, I'm Maison! A Software Developer</h1>
 
-<h2>About Me
+<h2>About Me</h2>
 
 <p>I was an Infantryman (11B) with the US Army and picked up my first gaming PC while in uniform (this matters I promise). While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked. 
 So, naturally, I started coursework for software development while I was still active.<br>
