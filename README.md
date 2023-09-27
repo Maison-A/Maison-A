@@ -2,7 +2,9 @@
 
 ## About Me
 
-I was an Infantryman (11B) with the US Army and picked up my first gaming PC while in uniform (this matters, I promise). While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked.  
+I was an Infantryman (11B) with the US Army with the 173 IBCT(A), 2/503 "THE ROCK". I spent a majority of my time in eastern Europe and Italy, jumping, training and traveling. I picked up my first gaming PC while in uniform (this matters I promise) to keep me company on rotations. 
+
+While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked.  
 So, naturally, I started coursework for software development while I was still active.  
 When I got out of uniform, I went to school after spending some time transitioning to civilian life. I attended and graduated from Cincinnati State with an AS in Computer Programming & Database Design and have been off to the races ever since!
 
