@@ -26,7 +26,7 @@ When I got out of uniform, I went to school after spending some time transitioni
 
 #### This stuff is my passion and I'm learning more and more every day!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maison-a&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maison-a&layout=compact&theme=dark)
 
 
 <!--**Maison-A/Maison-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
