@@ -26,9 +26,8 @@ When I got out of uniform, I went to school after spending some time transitioni
 
 #### This stuff is my passion and I'm learning more and more every day!
 
-<a href="https://www.linkedin.com/in/maisonca/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="LinkedIn" width="50" height="50" /></a>
 <div style="display: flex;">
+  <a href="https://www.linkedin.com/in/maisonca/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="LinkedIn" width="50" height="50" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maison-a&layout=compact&theme=gruvbox" alt="Top Langs" style="width: 48%; margin-right: 4%;" />
-  <img src="https://ghchart.rshah.org/gruvbox/maison-a" alt="GitHub Activity" style="width: 48%;" />
 </div>
 
