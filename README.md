@@ -24,8 +24,9 @@ When I got out of uniform, I went to school after spending some time transitioni
 - **Video Game Development**: Unity C#
 
 #### This stuff is my passion and I'm learning more and more every day!
-<div align="left">
-    <a href="https://www.linkedin.com/in/maisonca/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="LinkedIn" width="50" height="50" /></a>
+<div align="left" style="display: flex; align-items: center;">
+  <span margin-right: 15px;"> Connect with me! </span>
+  <a href="https://www.linkedin.com/in/maisonca/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="LinkedIn" width="24" height="24" /></a>
 </div>
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maison-a&layout=compact&theme=gruvbox" alt="Top Langs" style="width: 48%; margin-right: 4%;" />
