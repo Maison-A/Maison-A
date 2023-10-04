@@ -1,7 +1,6 @@
 # Howdy, I'm Maison! A Software Developer
 
 ## About Me
-
 I was an Infantryman (11B) with the US Army with the 173 IBCT(A), 2/503 "THE ROCK". I spent a majority of my time in eastern Europe and Italy, jumping, training and traveling. I picked up my first gaming PC while in uniform (this matters I promise) to keep me company on rotations. 
 
 While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked.  
@@ -25,9 +24,10 @@ When I got out of uniform, I went to school after spending some time transitioni
 - **Video Game Development**: Unity C#
 
 #### This stuff is my passion and I'm learning more and more every day!
-
+<div align="left">
+    <a href="https://www.linkedin.com/in/maisonca/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="LinkedIn" width="50" height="50" /></a>
+</div>
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/maisonca/"><img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="LinkedIn" width="50" height="50" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maison-a&layout=compact&theme=gruvbox" alt="Top Langs" style="width: 48%; margin-right: 4%;" />
 </div>
 
