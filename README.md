@@ -13,7 +13,7 @@ When I got out of uniform, I went to school after spending some time transitioni
 
 ## Languages & Tools
 
-- **Backend Development**: SQL, C/C++/C#, Python  
+- **Backend Development**: SQL, C/C++/C#, Python, Node.JS
   Custom operations & Business Logic, Sproc development & DB mgmt
 
 - **Frontend Development**: CSS/HTML, JS, Vue, Typescript  
