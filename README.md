@@ -7,9 +7,19 @@ While learning how to game on PC (I'm console native), I found that I was fascin
 So, naturally, I started coursework for software development while I was still active.  
 When I got out of uniform, I went to school after spending some time transitioning to civilian life. I attended and graduated from Cincinnati State with an AS in Computer Programming & Database Design and have been off to the races ever since!
 
-**Tldr; I'm an Aspiring Renaissance Man**
+### My Philosophy & Work Style
+My philosophy when it comes to programming & software development is "principles first".
+
+I can learn any tech stack because I focus on understanding the underlying principles & patterns that are common across all stacks.
+
+I don't get emotionally tied to my code either - it's a tool that needs to get a job done, nothing more, nothing less (not so much the case for my personal projects 💚).
+
+I work fine in teams or solo-dolo. I do not mind either situation as long as work is getting done!
 
 #### I'm currently working on personal projects and keeping an eye out for opportunity
+
+## **Tldr; I am an aspiring Renaissance Man that will make any tech stack sing**
+
 
 ## Languages & Tools
 
