@@ -1,10 +1,11 @@
 # Howdy, I'm Maison! A Software Developer
 
 ## About Me
-I was an Infantryman (11B) with the US Army with the 173 IBCT(A), 2/503 "THE ROCK". I spent a majority of my time in eastern Europe and Italy, jumping, training and traveling. I picked up my first gaming PC while in uniform (this matters I promise) to keep me company on rotations. 
+Hey everyone - My name is Maison and I develop software! 
 
-While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked.  
-So, naturally, I started coursework for software development while I was still active.  
+I was an Infantryman (11B) with the US Army with the 173 IBCT(A), 2/503 "THE ROCK". In my time with the 173 I spent a majority of it in eastern Europe and Italy: jumping, training, eating and traveling. I found there to be enough down time on rotations to justify picking up a new hobby - I went with my first gaming PC. Was an Alienware or something - but that's now what's important. What's important is the fact that it threw my into a new world that would eventually lead me into the open arms of software.
+
+While learning how to game on PC (I'm console native), I found that I was fascinated with how the machine worked. I tinkered, googled and investigated enough to find myself signing up for courses - while still active!
 When I got out of uniform, I went to school after spending some time transitioning to civilian life. I attended and graduated from Cincinnati State with an AS in Computer Programming & Database Design and have been off to the races ever since!
 
 ### My Philosophy & Work Style
