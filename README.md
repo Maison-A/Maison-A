@@ -24,13 +24,13 @@ I work fine in teams or solo-dolo. I do not mind either situation as long as wor
 
 ## Languages & Tools
 
-- **Backend Development**: SQL, C/C++/C#, Python, Node.JS
+- **Backend Development**: SQL, C#, Python, Node.JS, F#
   Custom operations & Business Logic, Sproc development & DB mgmt
 
-- **Frontend Development**: CSS/HTML, JS, Vue, Typescript  
+- **Frontend Development**: CSS/HTML (obviously)
   UI & Design
 
-- **Full Stack Development**: Vuejs, React, Restful APIs, Fauna/Supabase, Postgres, NoSQL, Netlify, Postman, Docker
+- **Full Stack Development**: Vuejs, React, Restful APIs, Postgres, NoSQL, Docker
 
 - **Video Game Development**: Unity C#
 
