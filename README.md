@@ -2,8 +2,8 @@
 
 ## Languages & Tools
 
-- C# | C++ | JS | Vue | Pybook | Elasticsearch | CSS | MVC | C++ | Python | NoSQL | .NET
-- SQL | Mongo | Docker | Jira | and more
+- C# | JS | C++ | Python | NoSQL | SQL
+- Flask | ASP.Net Core | Npgsql | Mongo | Elasticsearch | Docker | Jira | Pybook | and more
 
 
 - **Video Game Development**: Unity C#
