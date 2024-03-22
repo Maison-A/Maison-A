@@ -1,15 +1,10 @@
 ## **Tldr; I am an aspiring Renaissance Man that can solve a problem using the proper technology**
 
-
 ## Languages & Tools
 
-- **Backend Development**: SQL, C#, Python, Node.JS, F#
-  Custom operations & Business Logic, Sproc development & DB mgmt
+- C# | C++ | JS | Vue | Pybook | Elasticsearch | CSS | MVC | C++ | Python | NoSQL | .NET
+- SQL | Mongo | Docker | Jira | and more
 
-- **Frontend Development**: CSS/HTML (obviously)
-  UI & Design
-
-- **Full Stack Development**: Vuejs, React, Restful APIs, Postgres, NoSQL, Docker
 
 - **Video Game Development**: Unity C#
 
