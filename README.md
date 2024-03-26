@@ -1,4 +1,4 @@
-## **Tldr; I am an aspiring Renaissance Man that can solve a problem using the proper technology**
+## **Tldr; I am an aspiring Renaissance Man that will solve a problem using the proper technology**
 
 ## Languages & Tools
 
