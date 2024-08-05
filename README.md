@@ -1,9 +1,13 @@
 ## **Hey, I'm Maison: I believe in the pride of ownership and writing clean code**
-
+### Industry Experience:
+- Financial
+- Communications
+- Non-Profit
+  
 ## Languages & Tools
 
-- C# | JS | C++ | Python | NoSQL | SQL
-- Flask | ASP.Net Core | Npgsql | Mongo | Elasticsearch | Docker | Jira | Pybook | and more
+- C# | JS | C++ | Python | PHP | NoSQL | SQL
+- Flask | ASP.Net Core | Npgsql | Mongo | Docker | Jira | Pybook | and more
 
 
 - **Video Game Development**: Unity C#
