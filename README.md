@@ -1,4 +1,4 @@
-## **Tldr; I am an aspiring Renaissance Man that will solve a problem using the proper technology**
+## **Hey, I'm Maison: I believe in the pride of ownership and clean code**
 
 ## Languages & Tools
 
