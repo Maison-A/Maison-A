@@ -1,4 +1,4 @@
-## **Hey, I'm Maison: I believe in the pride of ownership and clean code**
+## **Hey, I'm Maison: I believe in the pride of ownership and writing clean code**
 
 ## Languages & Tools
 
