@@ -12,7 +12,6 @@
 
 - **Video Game Development**: Unity C#
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maison-a&layout=compact&theme=gruvbox" alt="Top Langs" style="width: 48%; margin-right: 4%;" />
+
 </div>
 
