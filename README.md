@@ -3,4 +3,4 @@
 
 
 ### Projects
-[Horizon](https://hznoutreach.framer.website/) outreach software for campaigns of any size to make the tools needed to be competitive accessible, and centralized. 
+[Horizon](https://hznoutreach.framer.website/): outreach software for campaigns of any size.
